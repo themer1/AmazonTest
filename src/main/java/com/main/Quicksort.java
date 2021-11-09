@@ -1,6 +1,6 @@
 package com.main;
 
-public class Qucksort {
+public class Quicksort {
     private void swap (int[] arr, int l, int r) {
         int temp = arr[l];
         arr[l] = temp;
